@@ -43,6 +43,6 @@ mandar a qual ferramenta). O roteamento de cada usuário usa o **placar local de
 ## Formato do comentário
 
 Uma tabela markdown (ferramenta, tipo, n, ok, corrigido, falhou/travou, indisponível, duração
-média) mais um bloco JSON com os mesmos números, marcado por `<!-- schematize-models-placar v1 -->`.
+média) mais um bloco JSON com os mesmos números, marcado por `<!-- placar-models v1 -->`.
 
 Licença do conteúdo: domínio público (CC0).
